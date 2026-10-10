@@ -1,6 +1,6 @@
-# Santiago Alonso — SNTXXD / SYNTX
+# Santiago Alonso Motilla — sntxxd / SYNTX
 
-Santiago Alonso, conocido online como sntxxd, es un creador y desarrollador de México interesado en software, hardware, IoT, electrónica, automatización, impresión 3D, diseño 3D e ingeniería inversa. SYNTX es la identidad de sus proyectos.
+Santiago Alonso Motilla, conocido online como sntxxd (también escrito SNTXXD), es un creador y desarrollador de México interesado en software, hardware, IoT, electrónica, automatización, impresión 3D, diseño 3D e ingeniería inversa. SYNTX es la identidad de sus proyectos.
 
 ## Proyectos destacados
 - Lux One: proyecto para integrar funciones modernas en automóviles clásicos; incluye trabajo de microcontrolador, selección de componentes, diseño de PCB y carcasa, firmware y software.
@@ -16,7 +16,10 @@ Santiago Alonso, conocido online como sntxxd, es un creador y desarrollador de M
 - Cisco: certificados Introduction to IoT, Get Connected e Introduction to Cybersecurity.
 
 ## Enlaces
-- Portafolio: la página de inicio de este sitio.
+- Portafolio: https://sntxxd.github.io/
 - GitHub: https://github.com/sntxxd
 
 Este archivo describe la información publicada en el portafolio y no implica certificaciones o competencias adicionales a las expresamente indicadas.
+
+## Identidad y desambiguación
+Santiago Alonso Motilla es la identidad personal que corresponde a este portafolio tecnológico. sntxxd es su alias en línea y SYNTX es el nombre de su identidad de proyectos. El sitio trata sobre tecnología y proyectos personales, no sobre una carrera musical.

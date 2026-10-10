@@ -21,3 +21,16 @@ Sitio estático minimalista para GitHub Pages, en español, con tema oscuro, por
 - Encabezados semánticos, contenido de texto rastreable, enlaces a certificados y diseño responsive.
 
 El SEO ayuda a los buscadores a entender el sitio, pero no garantiza aparecer inmediatamente ni que una IA cite la página. Tras publicar, registra el dominio en Google Search Console y envía el sitemap cuando tengas una URL definitiva.
+
+
+## SEO: publicar y solicitar indexación
+
+Este sitio incluye `robots.txt`, `sitemap.xml`, `llms.txt`, una URL canónica y datos estructurados `Person`. Después de subir los archivos a la raíz del repositorio `sntxxd.github.io`:
+
+1. Comprueba que `https://sntxxd.github.io/robots.txt` y `https://sntxxd.github.io/sitemap.xml` abran correctamente.
+2. Añade `https://sntxxd.github.io/` como propiedad de prefijo de URL en Google Search Console y completa la verificación.
+3. En Search Console, abre **Sitemaps** y envía `sitemap.xml`.
+4. En **Inspección de URLs**, inspecciona `https://sntxxd.github.io/` y solicita indexación si Google puede acceder a la página.
+5. Revisa el informe de indexación posteriormente. La indexación puede tardar y no está garantizada.
+
+No añadas perfiles sociales a `sameAs` a menos que sean perfiles públicos tuyos. Mantén el nombre, alias y enlaces coherentes en tus perfiles reales.
