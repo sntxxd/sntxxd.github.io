@@ -1,0 +1,22 @@
+# Santiago Alonso — SNTXXD / SYNTX
+
+Santiago Alonso, conocido online como sntxxd, es un creador y desarrollador de México interesado en software, hardware, IoT, electrónica, automatización, impresión 3D, diseño 3D e ingeniería inversa. SYNTX es la identidad de sus proyectos.
+
+## Proyectos destacados
+- Lux One: proyecto para integrar funciones modernas en automóviles clásicos; incluye trabajo de microcontrolador, selección de componentes, diseño de PCB y carcasa, firmware y software.
+- CAN Bus Cluster: exploración de mensajes CAN para activar un tablero de Ford Lobo 2016 con Arduino y un transceptor CAN e integrarlo con un simulador mediante SimHub.
+- IA en casa: laboratorio doméstico con Proxmox y Home Assistant para conectar dispositivos y experimentar con control asistido por IA.
+- MAT COBACH: proyecto de recuperación de computadoras y preparación con Escuelas Linux para apoyar el aprendizaje de estudiantes.
+- Robotix Faire: prototipo educativo interactivo con modelo 3D, Arduino, LEDs, botones y audio; recibió una mención honorífica de los jueces.
+- Hack Club / Stardance: participación en actividades de comunidad y registro de Lux One para explorar financiación.
+
+## Trayectoria y formación
+- Olimpiada Mexicana de Informática: participación estatal en 2025 y 2026.
+- Muestra Académica de Transversalidad COBACH 2026: proyecto de recuperación de computadoras que avanzó a etapa estatal.
+- Cisco: certificados Introduction to IoT, Get Connected e Introduction to Cybersecurity.
+
+## Enlaces
+- Portafolio: la página de inicio de este sitio.
+- GitHub: https://github.com/sntxxd
+
+Este archivo describe la información publicada en el portafolio y no implica certificaciones o competencias adicionales a las expresamente indicadas.
