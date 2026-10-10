@@ -10,4 +10,7 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://sntxxd.github.io/sitemap.xml
